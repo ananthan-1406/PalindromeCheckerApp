@@ -1,4 +1,6 @@
 import java.util.Scanner;
+import java.util.Stack;
+
 public class PalindromeCheckerApp {
     static void main() {
         Scanner sc = new Scanner(System.in);
